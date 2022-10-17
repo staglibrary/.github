@@ -4,4 +4,3 @@ STAG is a C++ library providing efficient spectral algorithms for the analysis o
 
 ## Project Status
 The project is under active development and more information and documentation will be added here in the near future.
- 
